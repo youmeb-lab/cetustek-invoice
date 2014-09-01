@@ -1,0 +1,16 @@
+{
+  "name": "cetustek-invoice",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Po-Ying Chen <poying.me@gmail.com> (陳柏穎)",
+  "license": "MIT",
+  "dependencies": {
+    "data2xml": "^1.1.0",
+    "moment": "^2.8.2",
+    "soap": "^0.2.7"
+  }
+}
